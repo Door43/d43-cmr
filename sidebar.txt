@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cmr:home|Door43 (cmr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cmr|d43-cmr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cmr/archive/master.zip|d43-cmr.zip]]
+
+**Recent Changes**
+{{changes>ns = cmr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cmr|Ethnologue data]]
+
